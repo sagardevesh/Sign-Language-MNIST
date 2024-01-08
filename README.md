@@ -1,6 +1,7 @@
 # Sign-Language-MNIST
 This project focusses on evaluating the accuracy of CNN models in detecting hand gestures in the Sign Language MNIST dataset.
 
+Here is the link to the [Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist) dataset.
 
 **Visualisation of the dataset**
 
