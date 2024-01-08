@@ -122,15 +122,25 @@ We also experimented further by adding an extra convolutional layer and then als
 
 **REFERECNES:**
 [1] liujeff. (2022, August 8). Hand Sign Classification MNIST. Kaggle: Your Machine Learning and Data Science Community. https://www.kaggle.com/code/liujeff/hand-sign-classification-mnist
+
 [2] lordkun. (2022, April 3). Go Deeper with ResNet | Sign language (.99 acc). Kaggle: Your Machine Learning and Data Science Community. https://www.kaggle.com/code/lordkun/go-deeper-with-resnet-sign-language-99-acc/notebook
+
 [3] Gavrilova, Y. (2021, August 3). What Are Convolutional Neural Networks? Serokell Software Development Company. https://serokell.io/blog/introduction-to-convolutional-neural-networks
+
 [4] Gad, A. F. (2020, October 12). Accuracy, Precision, and Recall in Deep Learning | Paperspace Blog. Paperspace Blog. https://blog.paperspace.com/deep-learning-metrics-precision-recall-accuracy/
+
 [5] Batch Normalization in Convolutional Neural Networks | Baeldung on Computer Science. (n.d.). Baeldung on Computer Science. https://www.baeldung.com/cs/batch-normalization-cnn#:~:text=Batch%20Norm%20is%20a%20normalization,learning%20rates,%20making%20learning%20easier.
+
 [6] How to improve the performance of CNN Model for a specific Dataset? Getting Low Accuracy on both training and Testing Dataset. (n.d.). Stack Overflow. https://stackoverflow.com/questions/70554413/how-to-improve-the-performance-of-cnn-model-for-a-specific-dataset-getting-low
+
 [7] Ali, A.-R. (2018, January 30). Histogram Equalization in Python. Code Envato Tuts+. https://code.tutsplus.com/tutorials/histogram-equalization-in-python--cms-30202
+
 [8] How to Visualize a Deep Learning Neural Network Model in Keras - MachineLearningMastery.com. (n.d.). MachineLearningMastery.com. https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/
+
 [9] exter minar. (2021, April 22). 35 Gesture Recognition Using Sign Language MNIST [Video]. YouTube. https://www.youtube.com/watch?v=6Bn0PY_ouBY
+
 [10] Building a Convolutional Neural Network | Build CNN using Keras. (n.d.). Analytics Vidhya. https://www.analyticsvidhya.com/blog/2021/06/building-a-convolutional-neural-network-using-tensorflow-keras/
+
 [11] Unable to import SGD and Adam from 'keras.optimizers'. (n.d.). Stack Overflow. https://stackoverflow.com/questions/67604780/unable-to-import-sgd-and-adam-from-keras-optimizers
 
 ****************************************************************************************************************
